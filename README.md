@@ -1,6 +1,6 @@
-## Hi i'm CAARLOZ 👋
-
-
+<div align="center">
+  <h1>Hi i'm CAARLOZ 👋</h1>
+  <img src="https://recluit.com/WP-Blog/wp-content/uploads/2023/10/tecnologia-moderna-abstracta-desarrollador-pantalla-codigo-programacion-lenguaje-programacion-c-script-computadora-fondo-tecnologia-software.jpg">
 **caarlozmlbb/caarlozmlbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+</div>
 
