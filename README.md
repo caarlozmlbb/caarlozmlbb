@@ -2,6 +2,7 @@
   <h1>Hi i'm CAARLOZ 👋</h1>
   <hr>
   Desarrollador Web
+  <br>
   <img src="https://recluit.com/WP-Blog/wp-content/uploads/2023/10/tecnologia-moderna-abstracta-desarrollador-pantalla-codigo-programacion-lenguaje-programacion-c-script-computadora-fondo-tecnologia-software.jpg">
   </div>
 
