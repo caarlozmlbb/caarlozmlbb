@@ -1,22 +1,19 @@
 <div align="center">
-  <h1>Hi i'm CAARLOZ 👋</h1>
+  <h1>¡Hola! Soy CAARLOZ 👋</h1>
   <hr>
   Desarrollador Web
   <br>
   <img src="https://midu.dev/images/wallpapers/una-taza-de-javascript.png">
-  </div>
+</div>
 
-**caarlozmlbb/caarlozmlbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**caarlozmlbb/caarlozmlbb** es un ✨ _repositorio especial_ ✨ porque su archivo `README.md` aparece en mi perfil de GitHub.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí  
+- 🔭 Actualmente estoy trabajando en desarrollo web con **Laravel, React y APIs en Laravel**.  
+- 🌱 Siempre estoy aprendiendo nuevas tecnologías y mejores prácticas.  
+- 👯 Me gustaría colaborar en proyectos **open source** y desarrollo web.  
+- 💬 Pregúntame sobre **Laravel, JavaScript, SQL y administración de bases de datos**.  
+- 📫 Puedes contactarme en: [Tu correo o redes sociales]  
+- ⚡ Dato curioso: Me encanta programar tanto como jugar videojuegos, cada línea de código es un nuevo reto.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
+¡Gracias por visitar mi perfil! 😃🚀  
