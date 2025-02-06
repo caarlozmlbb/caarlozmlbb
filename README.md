@@ -13,7 +13,7 @@
 - 🌱 Siempre estoy aprendiendo nuevas tecnologías y mejores prácticas.  
 - 👯 Me gustaría colaborar en proyectos **open source** y desarrollo web.  
 - 💬 Pregúntame sobre **Laravel, JavaScript, SQL y administración de bases de datos**.  
-- 📫 Puedes contactarme en: [Tu correo o redes sociales]  
+- 📫 Puedes contactarme en: <a>carloszmamani68166901@gmail.com</a>
 - ⚡ Dato curioso: Me encanta programar tanto como jugar videojuegos, cada línea de código es un nuevo reto.  
 
 ¡Gracias por visitar mi perfil! 😃🚀  
