@@ -3,7 +3,7 @@
   <hr>
   Desarrollador Web
   <br>
-  <img src="https://img.freepik.com/vector-premium/codigo-programacion-fondo-codificacion-o-hacker-icono-codigo-programacion-hecho-codigo-binario_127544-815.jpg">
+  <img src="https://midu.dev/images/wallpapers/una-taza-de-javascript.png">
   </div>
 
 **caarlozmlbb/caarlozmlbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
