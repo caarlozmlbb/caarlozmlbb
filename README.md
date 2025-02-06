@@ -3,7 +3,7 @@
   <hr>
   Desarrollador Web
   <br>
-  <img src="https://recluit.com/WP-Blog/wp-content/uploads/2023/10/tecnologia-moderna-abstracta-desarrollador-pantalla-codigo-programacion-lenguaje-programacion-c-script-computadora-fondo-tecnologia-software.jpg">
+  <img src="[https://recluit.com/WP-Blog/wp-content/uploads/2023/10/tecnologia-moderna-abstracta-desarrollador-pantalla-codigo-programacion-lenguaje-programacion-c-script-computadora-fondo-tecnologia-software.jpg](https://midu.dev/images/wallpapers/una-taza-de-javascript.png)">
   </div>
 
 **caarlozmlbb/caarlozmlbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
