@@ -3,7 +3,7 @@
   <hr>
   Desarrollador Web
   <br>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmidu.dev%2Ffondos-de-pantalla-de-programacion-javascript-html-css-react%2F&psig=AOvVaw0P45OHe47KZbb9_HJWbIo5&ust=1738889139003000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICxndPqrYsDFQAAAAAdAAAAABAE">
+  <img src="https://img.freepik.com/vector-premium/codigo-programacion-fondo-codificacion-o-hacker-icono-codigo-programacion-hecho-codigo-binario_127544-815.jpg">
   </div>
 
 **caarlozmlbb/caarlozmlbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
